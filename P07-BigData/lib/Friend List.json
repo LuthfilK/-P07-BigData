@@ -1,0 +1,13 @@
+{"_id":{"$oid":"5aca3358a7539028183057f0"},"name":"Arif Nugroho","friends":["Lulu alawiyah","Indah dwi jayanti","Noni rachmawati","Damar permadany","Rasyid abdullah","Fina yuniarti","Putri alvina lutfiani","Fifi dwi ariani","Fredy nur apriyanto","Dewi maliana","Gunawan raharjo"]}
+{"_id":{"$oid":"5aca4924a7539028183057f3"},"name":"Lulu alawiyah","friends":["Arif nugroho ","Rasyid abdullah","Fina yuniarti","Putri alvina lutfiani","Dewi maliana","Damar permadany","Ahmad ropii\t"]}
+{"_id":{"$oid":"5aca4a58a7539028183057f4"},"name":"Indah dwi jayanti","friends":["Arif nugroho","Lulu alawiyah","Noni rachmawati","Rasyid abdullah","Putri alvina lutfiani","Fredy nur apriyanto"]}
+{"_id":{"$oid":"5aca4a9fa7539028183057f5"},"name":"Noni rachmawati","friends":["Arif Nugroho","Lulu alawiyah","Indah dwi jayanti","Gunawan raharjo"]}
+{"_id":{"$oid":"5aca4b10a7539028183057f6"},"name":"Damar permadany","friends":["Arif Nugroho","Lulu alawiyah","Fredy nur apriyanto\t"]}
+{"_id":{"$oid":"5aca4b53a7539028183057f7"},"name":"Rasyid abdullah","friends":["Arif Nugroho","Lulu alawiyah","Indah dwi jayanti","Gunawan raharjo"]}
+{"_id":{"$oid":"5aca4b93a7539028183057f8"},"name":"Fina Yuniarti","friends":["Arif Nugroho","Lulu alawiyah","Fredy nur apriyanto"]}
+{"_id":{"$oid":"5aca4bb5a7539028183057f9"},"name":"Putri alfina lutfiani","friends":["Arif Nugroho","Lulu alawiyah","Indah dwi jayanti","Fredy nur apriyanto"]}
+{"_id":{"$oid":"5aca4befa7539028183057fa"},"name":"Fifi dwi ariani","friends":["Arif Nugroho","Fredy nur apriyanto","Ahmad ropii"]}
+{"_id":{"$oid":"5aca4c0fa7539028183057fb"},"name":"Fredy nur apriyanto","friends":["Arif Nugroho","Indah dwi jayanti","Damar permadany","Fina yuniarti","Putri alvina lutfiani","Fifi dwi ariani","Dewi maliana"]}
+{"_id":{"$oid":"5aca4c4ea7539028183057fc"},"name":"Dewi maliana","friends":["Arif Nugroho","Lulu alawiyah","Fredy nur apriyanto"]}
+{"_id":{"$oid":"5aca4c74a7539028183057fd"},"name":"Gunawan raharjo","friends":["Arif Nugroho","Noni rachmawati","Fredy nur apriyanto","Rasyid abdullah","Ahmad ropii"]}
+{"_id":{"$oid":"5aca4c9fa7539028183057fe"},"name":"Ahmad ropii","friends":["Lulu alawiyah","Gunawan raharjo","Fifi dwi ariani"]}
