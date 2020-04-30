@@ -1,1 +1,4 @@
 # -P07-BigData
+# NAMA : LUTHFIL KHAKIM
+# NIM  : 18090123
+# KELAS: 4C
